@@ -1,0 +1,1 @@
+window.alter("hello world")
